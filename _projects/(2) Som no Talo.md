@@ -1,8 +1,9 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Som no Talo
+tools: [NextJS]
+image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+description: Portal de streaming de músicas focado em DJs indepentes especializados em Mega Funk.
+external_url: https://somnotalo.com
 ---
 
 # The Movies Project
